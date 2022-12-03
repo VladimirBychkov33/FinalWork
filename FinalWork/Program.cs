@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-string[] array = { "GeekBrains", "hel", "12.2022", "555" };
+string[] array = { "GeekBrains", "hello", "12.2022", "555" };
 Console.WriteLine(String.Join(' ', array));
 Console.WriteLine();
 string[] final = NewString(array);
